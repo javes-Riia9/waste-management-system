@@ -1,0 +1,6 @@
+{
+  "name": "CleanSight AI - Smart Waste Management",
+  "description": "AI-driven smart waste management and urban cleanliness monitoring platform featuring waste detection, hotspot mapping, reports, and real-time analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
